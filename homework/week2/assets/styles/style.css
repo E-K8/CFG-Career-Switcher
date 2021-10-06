@@ -168,8 +168,7 @@ h3 {
   padding: 0.5rem;
 }
 
-/* TODO
- deploy at Netlify
- add Jolyon as contributor
- amend README so it includes both homeworks
- submit */
+.footer__icon:hover {
+  opacity: 0.5;
+  transition: 0.2s;
+}
