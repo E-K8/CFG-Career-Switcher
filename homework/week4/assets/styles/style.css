@@ -1,0 +1,21 @@
+* {
+  font-family: "Noto Sans Mono", monospace;
+}
+
+.wrapper {
+  background: url(../images/enigma.jpg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  color: #63b9d8;
+}
+
+.btn {
+  background: #162a31;
+  color: white;
+  height: 3rem;
+  width: 5rem;
+  border-radius: 0.7rem;
+  margin-top: 1rem;
+}
