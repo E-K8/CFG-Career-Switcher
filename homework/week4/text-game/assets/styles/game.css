@@ -1,0 +1,28 @@
+* {
+  font-family: "Noto Sans Mono", monospace;
+}
+
+.wrapper {
+  background: url(../images/star_sky.jpg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  color: #63b9d8;
+  padding: 2rem;
+}
+
+h3 {
+  text-transform: uppercase;
+}
+
+.btn {
+  text-transform: uppercase;
+  background: #162a31;
+  font-weight: bold;
+  color: white;
+  height: 4rem;
+  width: 7rem;
+  border-radius: 0.7rem;
+  margin-top: 1rem;
+}
